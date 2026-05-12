@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Portable ",
+    "description": "Compact and powerful power bank with dual USB ports, fast charging, and LED battery indicator.",
+    "price": 2320
+  },
+  {
+    "id": 3,
+    "name": "20000mAh",
+    "description": "Compact and powerful power bank with dual USB ports, fast charging, and LED battery indicator.",
+    "price": 1340
+  },
+  {
+    "id": 1778613162163,
+    "name": "Portable Test 3 ",
+    "description": "Compact and powerful power bank with dual USB ports, fast charging, and LED battery indicator. 3 ",
+    "price": 2323
+  }
+]
