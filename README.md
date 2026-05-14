@@ -1,4 +1,4 @@
-# Module-6 Node.js REST API Server
+# Module-6 Node.js REST API Development & Server Architecture
 
 A robust and scalable **Node.js** REST API server built with **TypeScript**. This project follows a modular architecture to ensure maintainability and ease of development.
 
